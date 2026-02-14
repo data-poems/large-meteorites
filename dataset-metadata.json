@@ -1,0 +1,18 @@
+{
+  "title": "Large Meteorites (1kg+) - NASA Catalog",
+  "id": "lucassteuber/large-meteorites-1kg-nasa",
+  "licenses": [{"name": "CC0-1.0"}],
+  "subtitle": "4,871 significant meteorite specimens weighing at least 1 kilogram",
+  "description": "NASA meteorite catalog filtered to substantial specimens (1kg+). These larger meteorites are rare, scientifically valuable, and often found in museum collections worldwide.",
+  "isPrivate": false,
+  "keywords": [
+    "meteorites",
+    "nasa",
+    "astronomy",
+    "space",
+    "geospatial",
+    "earth-science",
+    "specimens",
+    "planetary-science"
+  ]
+}
