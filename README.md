@@ -107,7 +107,7 @@ irons = df[df['meteorite_class'].str.contains('Iron', na=False)]
 
 Public Domain -- U.S. Government Work. Data from NASA Meteoritical Bulletin via Open Data Portal.
 
-https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
+https://data.nasa.gov/dataset/meteorite-landings
 
 ## Distribution
 
