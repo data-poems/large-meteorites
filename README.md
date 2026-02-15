@@ -54,14 +54,6 @@ dataset_info:
 - Fall vs. found distinction
 - Date range: 1399-2013
 
-## Why Large Meteorites Matter
-
-Large meteorites are rare finds:
-- Enough material for multiple scientific analyses
-- Often displayed in museums worldwide
-- Can be sliced for study while preserving the specimen
-- More likely to have survived atmospheric entry intact
-
 ## Filtering Criteria
 
 - Mass threshold: 1,000+ grams (1 kg)
@@ -113,9 +105,7 @@ irons = df[df['meteorite_class'].str.contains('Iron', na=False)]
 
 ## Source & License
 
-**Public Domain** - U.S. Government Work
-
-Data from NASA Meteoritical Bulletin via Open Data Portal.
+Public Domain -- U.S. Government Work. Data from NASA Meteoritical Bulletin via Open Data Portal.
 
 https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 
