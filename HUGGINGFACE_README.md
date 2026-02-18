@@ -53,6 +53,12 @@ with open('data.json') as f:
 }
 ```
 
+
+## Distribution
+
+- **GitHub**: [lukeslp/large-meteorites](https://github.com/lukeslp/large-meteorites)
+- **Kaggle**: [lucassteuber/large-meteorites](https://www.kaggle.com/datasets/lucassteuber/large-meteorites)
+
 ## Author
 
 **Luke Steuber**
