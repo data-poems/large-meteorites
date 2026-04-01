@@ -26,7 +26,7 @@ NASA meteorite catalog filtered to substantial specimens (1kg+). These larger me
 
 ## Dataset Structure
 
-[Check the demo notebook for data exploration examples]
+See `demo_notebook.ipynb` for data exploration examples.
 
 ## Usage
 
