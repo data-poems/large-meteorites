@@ -20,7 +20,7 @@ The underlying data comes from **NASA Meteoritical Bulletin**, which is a U.S. G
 
 ```
 Steuber, L. (2026). Large Meteorites 1kg+ - NASA Catalog [Dataset].
-Kaggle. https://www.kaggle.com/datasets/lucassteuber/large-meteorites-1kg-nasa
+Hugging Face. https://huggingface.co/datasets/lukeslp/large-meteorites
 ```
 
 Original data: NASA Open Data Portal
